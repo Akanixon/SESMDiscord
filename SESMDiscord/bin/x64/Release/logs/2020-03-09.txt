@@ -1,0 +1,119 @@
+08:06:38 [Info] Discord: Discord.Net v2.1.1 (API v6)
+08:06:39 [Info] Gateway: Connecting
+08:06:40 [Info] Gateway: Connected
+08:06:40 [Info] Gateway: Ready
+08:06:42 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+08:07:01 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+08:38:21 [Info] Discord: Discord.Net v2.1.1 (API v6)
+08:38:22 [Info] Gateway: Connecting
+08:38:23 [Info] Gateway: Connected
+08:38:23 [Info] Gateway: Ready
+08:38:24 [Info] Update: D:\Torch\Torch.Server.exe
+08:38:26 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+08:38:44 [Info] Update: D:\Torch\Torch.Server.exe
+08:38:46 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+08:38:52 [Info] Update: D:\Torch\Torch.Server.exe
+08:38:53 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+08:43:56 [Info] Discord: Discord.Net v2.1.1 (API v6)
+08:43:57 [Info] Gateway: Connecting
+08:43:58 [Info] Gateway: Connected
+08:43:58 [Info] Gateway: Ready
+08:43:59 [Info] UpdateProcesses: D:\Torch\Torch.Server.exe
+08:44:00 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+08:44:40 [Verbose] Command: Executed "watchdog" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+08:44:51 [Info] UpdateProcesses: D:\Torch\Torch.Server.exe
+08:44:51 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+08:46:06 [Info] Discord: Discord.Net v2.1.1 (API v6)
+08:46:08 [Info] Gateway: Connecting
+08:46:08 [Info] Gateway: Connected
+08:46:09 [Info] Gateway: Ready
+08:46:10 [Info] UpdateProcesses: D:\Torch\Torch.Server.exe
+08:46:10 [Warning] UpdateProcesses: Collection was modified; enumeration operation may not execute.
+08:46:12 [Info] UpdateProcesses: D:\Torch\Torch.Server.exe
+08:46:12 [Warning] UpdateProcesses: Collection was modified; enumeration operation may not execute.
+08:46:14 [Info] UpdateProcesses: D:\Torch\Torch.Server.exe
+08:46:14 [Warning] UpdateProcesses: Collection was modified; enumeration operation may not execute.
+08:46:16 [Info] UpdateProcesses: D:\Torch\Torch.Server.exe
+08:46:16 [Warning] UpdateProcesses: Collection was modified; enumeration operation may not execute.
+08:46:18 [Info] UpdateProcesses: D:\Torch\Torch.Server.exe
+08:46:18 [Warning] UpdateProcesses: Collection was modified; enumeration operation may not execute.
+08:46:20 [Info] UpdateProcesses: D:\Torch\Torch.Server.exe
+08:46:22 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+08:46:24 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+08:46:26 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+08:46:28 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+08:46:30 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+08:46:32 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+08:46:34 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+08:46:36 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+08:46:38 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+08:46:40 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+08:46:49 [Info] Discord: Discord.Net v2.1.1 (API v6)
+08:46:50 [Info] Gateway: Connecting
+08:46:51 [Info] Gateway: Connected
+08:46:51 [Info] Gateway: Ready
+08:46:52 [Info] UpdateProcesses: D:\Torch\Torch.Server.exe
+08:46:54 [Info] UpdateProcesses: D:\Torch\Torch.Server.exe
+08:46:56 [Info] UpdateProcesses: D:\Torch\Torch.Server.exe
+08:46:58 [Info] UpdateProcesses: D:\Torch\Torch.Server.exe
+08:52:58 [Info] Discord: Discord.Net v2.1.1 (API v6)
+08:52:59 [Info] Gateway: Connecting
+08:52:59 [Info] Gateway: Connected
+08:53:00 [Info] Gateway: Ready
+08:53:13 [Info] UpdateProcesses: 0 / 1
+08:53:13 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+08:55:48 [Info] Discord: Discord.Net v2.1.1 (API v6)
+08:55:49 [Info] Gateway: Connecting
+08:55:50 [Info] Gateway: Connected
+08:55:50 [Info] Gateway: Ready
+08:55:51 [Info] UpdateProcesses: 0 / 1
+08:55:52 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+09:04:03 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:04:03 [Info] Gateway: Connecting
+09:04:04 [Info] Gateway: Connected
+09:04:05 [Info] Gateway: Ready
+09:04:25 [Info] UpdateProcesses: 0 / 1
+09:04:27 [Info] UpdateProcesses: 0 / 1
+09:04:29 [Info] UpdateProcesses: 0 / 1
+09:04:31 [Info] UpdateProcesses: 0 / 1
+09:04:33 [Info] UpdateProcesses: 0 / 1
+09:04:44 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:04:44 [Info] Gateway: Connecting
+09:04:45 [Info] Gateway: Connected
+09:04:46 [Info] Gateway: Ready
+09:04:47 [Info] UpdateProcesses: 0 / 1
+09:04:47 [Warning] UpdateProcesses: Server D:\Torch\Torch.Server.exe appears to be offline, starting server.
+09:06:40 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:06:41 [Info] Gateway: Connecting
+09:06:41 [Info] Gateway: Connected
+09:06:42 [Info] Gateway: Ready
+09:06:43 [Info] UpdateProcesses: 0 / 1
+09:06:43 [Info] UpdateProcesses: Servers offline: 1 / 1
+09:06:43 [Warning] UpdateProcesses: Server D:\Torch\Torch.Server.exe appears to be offline, starting server.
+09:14:45 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:14:45 [Info] Gateway: Connecting
+09:14:46 [Info] Gateway: Connected
+09:14:47 [Info] Gateway: Ready
+09:15:01 [Info] UpdateProcesses: 0 / 1
+09:15:01 [Info] UpdateProcesses: Registered Servers: 1
+09:15:01 [Info] UpdateProcesses: Servers offline: 1 / 1
+09:15:01 [Warning] UpdateProcesses: Server D:\Torch\Torch.Server.exe appears to be offline, starting server.
+09:18:14 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:18:14 [Info] Gateway: Connecting
+09:18:15 [Info] Gateway: Connected
+09:18:16 [Info] Gateway: Ready
+09:18:17 [Info] UpdateProcesses: 0 / 1
+09:18:17 [Info] UpdateProcesses: Registered Servers: 1
+09:18:17 [Info] UpdateProcesses: Servers offline: 1 / 1
+09:18:17 [Warning] UpdateProcesses: Server D:\Torch\Torch.Server.exe appears to be offline, starting server.
+09:18:30 [Info] UpdateProcesses: 0 / 1
+09:18:30 [Info] UpdateProcesses: Registered Servers: 1
+09:18:31 [Info] UpdateProcesses: Servers offline: 1 / 1
+09:18:31 [Warning] UpdateProcesses: Server D:\Torch\Torch.Server.exe appears to be offline, starting server.
+09:22:54 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:22:54 [Info] Gateway: Connecting
+09:22:55 [Info] Gateway: Connected
+09:22:56 [Info] Gateway: Ready
+09:22:57 [Info] UpdateProcesses: 0 / 1
+09:22:57 [Info] UpdateProcesses: Servers offline: 1 / 1
+09:22:57 [Warning] UpdateProcesses: Server D:\Torch\Torch.Server.exe appears to be offline, starting server.

@@ -1,0 +1,59 @@
+12:57:59 [Info] Discord: Discord.Net v2.1.1 (API v6)
+12:58:01 [Info] Gateway: Connecting
+12:58:01 [Info] Gateway: Connected
+12:58:02 [Info] Gateway: Ready
+12:58:07 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start" for Akanixon アカニクソン#1337 in Development[Aka]/general-old. ---> System.InvalidOperationException: No current row
+   at System.Data.SQLite.SQLiteDataReader.CheckValidRow()
+   at System.Data.SQLite.SQLiteDataReader.GetValue(Int32 i)
+   at SESMDiscord.Modules.Torch.<StartAsync>d__10.MoveNext() in C:\Users\AkaNi\source\repos\SESMDiscord\SESMDiscord\Modules\Torch.cs:line 76
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.CommandInfo.<ExecuteInternalAsync>d__45.MoveNext()
+   --- End of inner exception stack trace ---
+12:58:07 [Verbose] Command: Executed "start" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+12:58:13 [Verbose] Command: Executed "list" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+12:58:19 [Verbose] Command: Executed "servers" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+12:58:41 [Verbose] Command: Executed "register" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+12:58:41 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+12:58:55 [Verbose] Command: Executed "list" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+12:59:44 [Info] Discord: Discord.Net v2.1.1 (API v6)
+12:59:45 [Info] Gateway: Connecting
+12:59:45 [Info] Gateway: Connected
+12:59:46 [Info] Gateway: Ready
+01:00:05 [Verbose] Command: Executed "list" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+01:01:07 [Info] Discord: Discord.Net v2.1.1 (API v6)
+01:01:08 [Info] Gateway: Connecting
+01:01:09 [Info] Gateway: Connected
+01:01:09 [Info] Gateway: Ready
+01:01:20 [Verbose] Command: Executed "list" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+01:19:55 [Info] Discord: Discord.Net v2.1.1 (API v6)
+01:19:56 [Info] Gateway: Connecting
+01:19:57 [Info] Gateway: Connected
+01:19:57 [Info] Gateway: Ready
+01:20:06 [Verbose] Command: Executed "list" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+01:20:31 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+01:21:14 [Info] Discord: Discord.Net v2.1.1 (API v6)
+01:21:15 [Info] Gateway: Connecting
+01:21:15 [Info] Gateway: Connected
+01:21:16 [Info] Gateway: Ready
+01:21:20 [Verbose] Command: Executed "list" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+01:21:47 [Info] Discord: Discord.Net v2.1.1 (API v6)
+01:21:48 [Info] Gateway: Connecting
+01:21:49 [Info] Gateway: Connected
+01:21:49 [Info] Gateway: Ready
+01:21:56 [Verbose] Command: Executed "list" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+01:22:49 [Info] Discord: Discord.Net v2.1.1 (API v6)
+01:22:49 [Info] Gateway: Connecting
+01:22:50 [Info] Gateway: Connected
+01:22:51 [Info] Gateway: Ready
+01:22:57 [Verbose] Command: Executed "list" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+01:28:48 [Info] Discord: Discord.Net v2.1.1 (API v6)
+01:28:49 [Info] Gateway: Connecting
+01:28:50 [Info] Gateway: Connected
+01:28:50 [Info] Gateway: Ready
+01:29:01 [Verbose] Command: Executed "list" for Akanixon アカニクソン#1337 in Development[Aka]/general-old

@@ -1,0 +1,87 @@
+09:14:46 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:14:47 [Info] Gateway: Connecting
+09:14:49 [Info] Gateway: Connected
+09:14:49 [Warning] UpdateProcesses: Object reference not set to an instance of an object.
+09:14:50 [Info] Gateway: Ready
+09:15:11 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:13 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:15 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:17 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:19 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:21 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:23 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:25 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:27 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:29 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:31 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:33 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:35 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:37 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:39 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:41 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:43 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:45 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:47 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:49 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:51 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:53 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:55 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:57 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:15:59 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:01 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:03 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:05 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:07 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:09 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:11 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:13 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:15 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:17 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:19 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:21 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:23 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:25 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:27 [Warning] UpdateProcesses: Operation is not valid due to the current state of the object.
+09:16:32 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:16:33 [Info] Gateway: Connecting
+09:16:34 [Info] Gateway: Connected
+09:16:34 [Info] Gateway: Ready
+09:16:55 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:16:55 [Info] Gateway: Connecting
+09:16:56 [Info] Gateway: Connected
+09:16:56 [Info] Gateway: Ready
+09:19:03 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:19:04 [Info] Gateway: Connecting
+09:19:04 [Info] Gateway: Connected
+09:19:05 [Info] Gateway: Ready
+09:23:17 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:23:18 [Info] Gateway: Connecting
+09:23:19 [Info] Gateway: Connected
+09:23:19 [Info] Gateway: Ready
+09:24:52 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:24:53 [Info] Gateway: Connecting
+09:24:54 [Info] Gateway: Connected
+09:24:54 [Info] Gateway: Ready
+09:24:56 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+09:25:35 [Warning] UpdateProcesses: Server not responding, forcibly restarting server.
+09:27:44 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:27:45 [Info] Gateway: Connecting
+09:27:45 [Info] Gateway: Connected
+09:27:46 [Info] Gateway: Ready
+09:27:48 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+09:28:24 [Warning] UpdateProcesses: Server not responding, forcibly restarting server.
+09:41:07 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:41:07 [Info] Gateway: Connecting
+09:41:08 [Info] Gateway: Connected
+09:41:09 [Info] Gateway: Ready
+09:41:10 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+09:41:41 [Warning] UpdateProcesses: Server not responding, forcibly restarting server.
+09:45:35 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:45:36 [Info] Gateway: Connecting
+09:45:37 [Info] Gateway: Connected
+09:45:37 [Info] Gateway: Ready
+09:46:32 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:46:33 [Info] Gateway: Connecting
+09:46:33 [Info] Gateway: Connected
+09:46:34 [Info] Gateway: Ready
+09:46:54 [Warning] UpdateProcesses: Server not responding, forcibly restarting server.

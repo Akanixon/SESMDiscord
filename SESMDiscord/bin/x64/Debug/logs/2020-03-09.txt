@@ -1,0 +1,15 @@
+03:41:58 [Info] Discord: Discord.Net v2.1.1 (API v6)
+03:41:59 [Info] Gateway: Connecting
+03:42:00 [Info] Gateway: Connected
+03:42:00 [Info] Gateway: Ready
+03:42:02 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+03:43:11 [Info] Discord: Discord.Net v2.1.1 (API v6)
+03:43:12 [Info] Gateway: Connecting
+03:43:13 [Info] Gateway: Connected
+03:43:13 [Info] Gateway: Ready
+03:43:20 [Verbose] Command: Executed "list" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+03:47:15 [Info] Discord: Discord.Net v2.1.1 (API v6)
+03:47:15 [Info] Gateway: Connecting
+03:47:16 [Info] Gateway: Connected
+03:47:17 [Info] Gateway: Ready
+03:48:35 [Verbose] Command: Executed "list" for Akanixon アカニクソン#1337 in Development[Aka]/general-old

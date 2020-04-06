@@ -1,0 +1,17 @@
+01:20:26 [Info] Discord: Discord.Net v2.1.1 (API v6)
+01:20:26 [Info] Gateway: Connecting
+01:20:27 [Info] Gateway: Connected
+01:20:28 [Info] Gateway: Ready
+01:22:10 [Info] Discord: Discord.Net v2.1.1 (API v6)
+01:22:11 [Info] Gateway: Connecting
+01:22:12 [Info] Gateway: Connected
+01:22:12 [Info] Gateway: Ready
+01:22:29 [Verbose] Command: Executed "Default" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+01:23:05 [Info] Discord: Discord.Net v2.1.1 (API v6)
+01:23:06 [Info] Gateway: Connecting
+01:23:08 [Info] Gateway: Connected
+01:23:08 [Info] Gateway: Ready
+01:36:12 [Info] Discord: Discord.Net v2.1.1 (API v6)
+01:36:13 [Info] Gateway: Connecting
+01:36:14 [Info] Gateway: Connected
+01:36:14 [Info] Gateway: Ready

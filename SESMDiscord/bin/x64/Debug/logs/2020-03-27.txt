@@ -1,0 +1,40 @@
+09:04:36 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:04:37 [Info] Gateway: Connecting
+09:04:38 [Info] Gateway: Connected
+09:04:39 [Info] Gateway: Ready
+09:04:39 [Info] UpdateProcesses: 0 / 1
+09:04:39 [Info] UpdateProcesses: Servers offline: 1 / 1
+09:04:39 [Warning] UpdateProcesses: Server D:\Torch\Torch.Server.exe appears to be offline, starting server.
+09:05:05 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:05:06 [Info] Gateway: Connecting
+09:05:08 [Info] Gateway: Connected
+09:05:08 [Info] Gateway: Ready
+09:20:36 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:20:37 [Info] Gateway: Connecting
+09:20:38 [Info] Gateway: Connected
+09:20:39 [Info] Gateway: Ready
+09:20:40 [Verbose] Command: Executed "watchdog" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+09:20:41 [Info] UpdateProcesses: 0 / 1
+09:20:59 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:21:01 [Info] Gateway: Connecting
+09:21:04 [Info] Gateway: Connected
+09:21:04 [Info] Gateway: Ready
+09:21:18 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:21:19 [Info] Gateway: Connecting
+09:21:20 [Info] Gateway: Connected
+09:21:21 [Info] Gateway: Ready
+09:21:21 [Info] UpdateProcesses: 0 / 1
+09:25:05 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:25:06 [Info] Gateway: Connecting
+09:25:08 [Info] Gateway: Connected
+09:25:08 [Info] UpdateProcesses: 0 / 1
+09:25:08 [Info] UpdateProcesses: Servers offline: 1 / 1
+09:25:08 [Warning] UpdateProcesses: Server D:\Torch\Torch.Server.exe appears to be offline, starting server.
+09:25:09 [Info] Gateway: Ready
+09:25:36 [Info] Discord: Discord.Net v2.1.1 (API v6)
+09:25:37 [Info] Gateway: Connecting
+09:25:39 [Info] UpdateProcesses: 0 / 1
+09:25:39 [Info] UpdateProcesses: Servers offline: 1 / 1
+09:25:39 [Warning] UpdateProcesses: Server D:\Torch\Torch.Server.exe appears to be offline, starting server.
+09:25:40 [Info] Gateway: Connected
+09:25:40 [Info] Gateway: Ready

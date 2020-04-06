@@ -1,0 +1,40 @@
+03:52:59 [Info] Discord: Discord.Net v2.1.1 (API v6)
+03:52:59 [Info] Gateway: Connecting
+03:53:00 [Info] Gateway: Connected
+03:53:01 [Info] Gateway: Ready
+03:53:02 [Warning] UpdateProcesses: Server appears to be offline, starting server.
+03:53:44 [Verbose] Command: Executed "Default" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+04:05:06 [Info] Discord: Discord.Net v2.1.1 (API v6)
+04:05:07 [Info] Gateway: Connecting
+04:05:08 [Info] Gateway: Connected
+04:05:08 [Info] Gateway: Ready
+04:05:16 [Verbose] Command: Executed "Default" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+04:13:41 [Info] Discord: Discord.Net v2.1.1 (API v6)
+04:13:41 [Info] Gateway: Connecting
+04:13:42 [Info] Gateway: Connected
+04:13:42 [Info] Gateway: Ready
+04:13:47 [Verbose] Command: Executed "Default" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+04:15:16 [Info] Discord: Discord.Net v2.1.1 (API v6)
+04:15:17 [Info] Gateway: Connecting
+04:15:18 [Info] Gateway: Connected
+04:15:18 [Info] Gateway: Ready
+04:15:21 [Verbose] Command: Executed "Default" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+07:02:36 [Info] Discord: Discord.Net v2.1.1 (API v6)
+07:02:37 [Info] Gateway: Connecting
+07:02:38 [Info] Gateway: Connected
+07:02:38 [Info] Gateway: Ready
+07:02:55 [Verbose] Command: Executed "servers" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+07:03:10 [Error] torch.remove: SQL logic error
+near "*": syntax error
+07:03:10 [Verbose] Command: Executed "remove" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+07:03:16 [Verbose] Command: Executed "servers" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+07:03:37 [Info] Discord: Discord.Net v2.1.1 (API v6)
+07:03:38 [Info] Gateway: Connecting
+07:03:39 [Info] Gateway: Connected
+07:03:39 [Info] Gateway: Ready
+07:03:45 [Verbose] Command: Executed "remove" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+07:04:02 [Verbose] Command: Executed "servers" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+08:03:49 [Info] Discord: Discord.Net v2.1.1 (API v6)
+08:03:50 [Info] Gateway: Connecting
+08:03:51 [Info] Gateway: Connected
+08:03:51 [Info] Gateway: Ready

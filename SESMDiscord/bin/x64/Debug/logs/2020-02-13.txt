@@ -1,0 +1,10 @@
+10:28:12 [Info] Discord: Discord.Net v2.1.1 (API v6)
+10:28:13 [Info] Gateway: Connecting
+10:28:14 [Info] Gateway: Connected
+10:28:14 [Info] Gateway: Ready
+10:28:30 [Info] Discord: Discord.Net v2.1.1 (API v6)
+10:28:31 [Info] Gateway: Connecting
+10:28:32 [Info] Gateway: Connected
+10:28:32 [Info] Gateway: Ready
+10:28:45 [Verbose] Command: Executed "monitoring" for Akanixon アカニクソン#1337 in Development[Aka]/general-old
+10:28:47 [Warning] UpdateProcesses: Server appears to be offline, starting server.
