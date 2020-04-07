@@ -1,6 +1,6 @@
 ﻿prefix: '.'
 tokens:
-    discord: 'Njc0OTI0MDk2NjMwNTU0NjI1.XjwFqQ.ov5Y_v637mcvAcmhO5p0BlVn-VM'
+    discord: ''
 commandChannelId: '612393310887084046'
 pChannelId: '677447870399643648'
 dbConnection: 'C:\Users\AkaNi\source\repos\SESMDiscord\SESMDiscord\database.db'
